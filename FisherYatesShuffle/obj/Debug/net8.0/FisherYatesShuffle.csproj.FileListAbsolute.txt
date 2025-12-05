@@ -1,0 +1,16 @@
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\bin\Debug\net8.0\FisherYatesShuffle.exe
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\bin\Debug\net8.0\FisherYatesShuffle.deps.json
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\bin\Debug\net8.0\FisherYatesShuffle.runtimeconfig.json
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\bin\Debug\net8.0\FisherYatesShuffle.dll
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\bin\Debug\net8.0\FisherYatesShuffle.pdb
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\obj\Debug\net8.0\FisherYatesShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\obj\Debug\net8.0\FisherYatesShuffle.AssemblyInfoInputs.cache
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\obj\Debug\net8.0\FisherYatesShuffle.AssemblyInfo.cs
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\obj\Debug\net8.0\FisherYatesShuffle.csproj.CoreCompileInputs.cache
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\obj\Debug\net8.0\FisherYatesShuffle.sourcelink.json
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\obj\Debug\net8.0\FisherYatesShuffle.dll
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\obj\Debug\net8.0\refint\FisherYatesShuffle.dll
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\obj\Debug\net8.0\FisherYatesShuffle.pdb
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\obj\Debug\net8.0\FisherYatesShuffle.genruntimeconfig.cache
+C:\Users\miiaa\Source\Repos\algorithms-portfolio\FisherYatesShuffle\obj\Debug\net8.0\ref\FisherYatesShuffle.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\FisherYatesShuffle\bin\Debug\net8.0\data.txt
