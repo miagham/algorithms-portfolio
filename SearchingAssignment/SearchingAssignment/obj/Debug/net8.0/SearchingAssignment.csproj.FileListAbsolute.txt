@@ -1,0 +1,15 @@
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\bin\Debug\net8.0\SearchingAssignment.exe
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\bin\Debug\net8.0\SearchingAssignment.deps.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\bin\Debug\net8.0\SearchingAssignment.runtimeconfig.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\bin\Debug\net8.0\SearchingAssignment.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\bin\Debug\net8.0\SearchingAssignment.pdb
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\obj\Debug\net8.0\SearchingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\obj\Debug\net8.0\SearchingAssignment.AssemblyInfoInputs.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\obj\Debug\net8.0\SearchingAssignment.AssemblyInfo.cs
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\obj\Debug\net8.0\SearchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\obj\Debug\net8.0\SearchingAssignment.sourcelink.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\obj\Debug\net8.0\SearchingAssignment.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\obj\Debug\net8.0\refint\SearchingAssignment.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\obj\Debug\net8.0\SearchingAssignment.pdb
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\obj\Debug\net8.0\SearchingAssignment.genruntimeconfig.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\SearchingAssignment\SearchingAssignment\obj\Debug\net8.0\ref\SearchingAssignment.dll
