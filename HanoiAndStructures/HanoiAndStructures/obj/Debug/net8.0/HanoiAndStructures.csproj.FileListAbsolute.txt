@@ -1,0 +1,15 @@
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\bin\Debug\net8.0\HanoiAndStructures.exe
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\bin\Debug\net8.0\HanoiAndStructures.deps.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\bin\Debug\net8.0\HanoiAndStructures.runtimeconfig.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\bin\Debug\net8.0\HanoiAndStructures.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\bin\Debug\net8.0\HanoiAndStructures.pdb
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\obj\Debug\net8.0\HanoiAndStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\obj\Debug\net8.0\HanoiAndStructures.AssemblyInfoInputs.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\obj\Debug\net8.0\HanoiAndStructures.AssemblyInfo.cs
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\obj\Debug\net8.0\HanoiAndStructures.csproj.CoreCompileInputs.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\obj\Debug\net8.0\HanoiAndStructures.sourcelink.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\obj\Debug\net8.0\HanoiAndStructures.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\obj\Debug\net8.0\refint\HanoiAndStructures.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\obj\Debug\net8.0\HanoiAndStructures.pdb
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\obj\Debug\net8.0\HanoiAndStructures.genruntimeconfig.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\HanoiAndStructures\HanoiAndStructures\obj\Debug\net8.0\ref\HanoiAndStructures.dll
