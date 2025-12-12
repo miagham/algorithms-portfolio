@@ -1,0 +1,15 @@
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\bin\Debug\net8.0\TreeStructures.exe
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\bin\Debug\net8.0\TreeStructures.deps.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\bin\Debug\net8.0\TreeStructures.runtimeconfig.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\bin\Debug\net8.0\TreeStructures.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\bin\Debug\net8.0\TreeStructures.pdb
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\obj\Debug\net8.0\TreeStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\obj\Debug\net8.0\TreeStructures.AssemblyInfoInputs.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\obj\Debug\net8.0\TreeStructures.AssemblyInfo.cs
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\obj\Debug\net8.0\TreeStructures.csproj.CoreCompileInputs.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\obj\Debug\net8.0\TreeStructures.sourcelink.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\obj\Debug\net8.0\TreeStructures.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\obj\Debug\net8.0\refint\TreeStructures.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\obj\Debug\net8.0\TreeStructures.pdb
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\obj\Debug\net8.0\TreeStructures.genruntimeconfig.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\TreeStructures\TreeStructures\obj\Debug\net8.0\ref\TreeStructures.dll
