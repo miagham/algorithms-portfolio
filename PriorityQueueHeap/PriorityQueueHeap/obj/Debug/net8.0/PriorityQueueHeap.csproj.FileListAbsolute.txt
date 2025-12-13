@@ -1,0 +1,15 @@
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\bin\Debug\net8.0\PriorityQueueHeap.exe
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\bin\Debug\net8.0\PriorityQueueHeap.deps.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\bin\Debug\net8.0\PriorityQueueHeap.runtimeconfig.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\bin\Debug\net8.0\PriorityQueueHeap.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\bin\Debug\net8.0\PriorityQueueHeap.pdb
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\obj\Debug\net8.0\PriorityQueueHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\obj\Debug\net8.0\PriorityQueueHeap.AssemblyInfoInputs.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\obj\Debug\net8.0\PriorityQueueHeap.AssemblyInfo.cs
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\obj\Debug\net8.0\PriorityQueueHeap.csproj.CoreCompileInputs.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\obj\Debug\net8.0\PriorityQueueHeap.sourcelink.json
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\obj\Debug\net8.0\PriorityQueueHeap.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\obj\Debug\net8.0\refint\PriorityQueueHeap.dll
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\obj\Debug\net8.0\PriorityQueueHeap.pdb
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\obj\Debug\net8.0\PriorityQueueHeap.genruntimeconfig.cache
+C:\Users\miiaa\source\repos\algorithms-portfolio\PriorityQueueHeap\PriorityQueueHeap\obj\Debug\net8.0\ref\PriorityQueueHeap.dll
